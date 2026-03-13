@@ -6,7 +6,7 @@ A proof-of-concept web application that helps Pennsylvania college students unde
 
 ```bash
 # Clone and install
-git clone <repo-url>
+git clone https://github.com/oqr/navvy-snap.git
 cd navvy-snap
 npm install
 
